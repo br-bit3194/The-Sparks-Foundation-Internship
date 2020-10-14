@@ -6,7 +6,7 @@ and execute that file.
 How code is Working?
 -------------------
 
-1) In "Task-1/Task-1" My solution.ipynb we have made our simple linear regression 
+1) In "Task-1/Task-1 My solution.ipynb" we have made our simple linear regression 
 ml model.
 
 2) Saved that model as "student_marks_pred.pkl" .
